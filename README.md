@@ -10,6 +10,6 @@
 
 5 - Mude o idioma do jogo para ingles para que a tradução faça efeito. para remover a tradução basta deletar o arquivo pakchunk0-PTBR-WindowsNoEditor_1000_P.pak
 
-Obs: a tradução esta nas fazes inciais e foi feita usando google tradutor. Não confie na tradução para passivas de armas, constelações ou algo importante. em caso de duvida, alterne entre idiomas. Irei melhorando a tradução com o passar do tempo, porém inicialmente erros de tradução são esperados.
+Obs: a tradução esta na fases incial. Não confie na tradução para passivas de armas, constelações ou algo importante. em caso de duvida, alterne entre idiomas. Irei melhorando a tradução com o passar do tempo, porém inicialmente erros de tradução são esperados.
 
 Sobre ban: use por sua conta e risco. porém a probalidade deve ser baixa.
