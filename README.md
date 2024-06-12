@@ -1,5 +1,3 @@
-[![Discord Online Members](https://discord.com/api/guilds/1249021357249921105/widget.png?style=shield)](https://discord.gg/dtTEGkgA)
-
 # Como instalar:
 
 1 - Baixe o pakchunk0-PTBR-WindowsNoEditor_1000_P.pak copie e cole em  \Wuthering Waves\Wuthering Waves Game\Client\Content\Paks\
