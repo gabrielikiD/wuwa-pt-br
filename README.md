@@ -1,14 +1,12 @@
 # Links Úteis:
 
+### [Canal do YouTube](https://www.youtube.com/channel/UCg3UqZDuNRPzmTuGHuyBhVA) - [Discord](https://discord.gg/ykKGpqtNab)
+
 #### Tutoriais no youtube:
+
 - [Como instalar a atualização](https://www.youtube.com/watch?v=dAHCTcvXhkg)
 
 - [Como instalar tradução](https://www.youtube.com/watch?v=0XeVxkbn4HI)
-
-#### Canal Youtube e Discord:
-- [Canal no YouTube](https://www.youtube.com/channel/UCg3UqZDuNRPzmTuGHuyBhVA)
-
-- [Discord](https://discord.gg/ykKGpqtNab)
 
 # Como instalar:
 
