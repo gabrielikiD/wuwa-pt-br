@@ -1,8 +1,14 @@
-# Fique por dentro:
+# Links Úteis:
 
-- [YouTube](https://www.youtube.com/channel/UCg3UqZDuNRPzmTuGHuyBhVA)
+#### Tutoriais no youtube:
+- [Como instalar a atualização](https://www.youtube.com/watch?v=dAHCTcvXhkg)
 
-- [Discord](https://discord.gg/xuEUp9pg)
+- [Como instalar tradução](https://www.youtube.com/watch?v=0XeVxkbn4HI)
+
+#### Canal Youtube e Discord:
+- [Canal no YouTube](https://www.youtube.com/channel/UCg3UqZDuNRPzmTuGHuyBhVA)
+
+- [Discord](https://discord.gg/ykKGpqtNab)
 
 # Como instalar:
 
@@ -18,10 +24,10 @@
 
 5. **Mude o idioma do jogo para ingles para que a tradução faça efeito. para remover a tradução basta deletar o arquivo `pakchunk0-PTBR-WindowsNoEditor_1000_P.pak`**
 
-###### PARA ADICIONAR A VERSÃO ATUALIZADA DA LEGENDA, CASO JA TENHA INSTALADO SERÁ NECESSÁRIO FAZER SOMENTE O PASSO 1
+###### PARA ADICIONAR A VERSÃO ATUALIZADA DA TRADUÇÃO, CASO JA TENHA INSTALADA SERÁ NECESSÁRIO FAZER SOMENTE O PASSO 1
 
 # Outros:
 
-A tradução esta na fase incial. Não confie na tradução para passivas de armas, constelações ou algo importante. Em caso de duvida, alterne entre idiomas. A tradução será melhorada conforme reports da comunidade no discord. Sempre que possível acesse essa página verificar se há novas atualizações.
+A tradução esta na fase incial. Não confie na tradução para passivas de armas, constelações ou algo importante. Em caso de duvida, alterne entre idiomas. A tradução será melhorada conforme reports da comunidade no discord. Sempre que possível acesse essa página para verificar se há novas atualizações.
 
 Sobre ban: use por sua conta e risco. porém a probabilidade deve ser baixa.
