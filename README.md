@@ -4,9 +4,9 @@
 
 #### Tutoriais no youtube:
 
-- [Como instalar a atualização](https://www.youtube.com/watch?v=dAHCTcvXhkg)
+- [Como instalar a tradução](https://www.youtube.com/watch?v=0XeVxkbn4HI)
 
-- [Como instalar tradução](https://www.youtube.com/watch?v=0XeVxkbn4HI)
+- [Como instalar a atualização da tradução](https://www.youtube.com/watch?v=dAHCTcvXhkg)
 
 # Como instalar:
 
