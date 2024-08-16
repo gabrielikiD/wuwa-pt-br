@@ -10,7 +10,8 @@
 
 # Como instalar:
 
-#### Compatível com a versão 1.1
+#### Compatível com a versão 1.2
+#### Em caso de FATAL ERRO. abra pelo atalho.
 
 1. **Baixe o `pakchunk0-PTBR-WindowsNoEditor_1000_P.pak` copie e cole em  `\Wuthering Waves\Wuthering Waves Game\Client\Content\Paks\`**
 
