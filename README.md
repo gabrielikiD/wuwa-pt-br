@@ -1,3 +1,6 @@
+# Aviso Importante
+####  Apos a atualização da 1.3 o jogo fecha se instalar a tradução, estamos tentando resolver. Por enquanto o download da nova versão está liberado somente no discord, pra ficar mais fácil obter feedback. 
+
 # Links Úteis:
 
 ### [Canal do YouTube](https://www.youtube.com/channel/UCg3UqZDuNRPzmTuGHuyBhVA) - [Discord](https://discord.gg/ykKGpqtNab)
@@ -11,7 +14,6 @@
 # Como instalar:
 
 #### Compatível com a versão 1.2
-#### Em caso de FATAL ERRO. abra pelo atalho.
 
 1. **Baixe o `pakchunk0-PTBR-WindowsNoEditor_1000_P.pak` copie e cole em  `\Wuthering Waves\Wuthering Waves Game\Client\Content\Paks\`**
 
