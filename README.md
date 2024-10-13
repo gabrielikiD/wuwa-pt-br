@@ -1,5 +1,5 @@
 # Aviso Importante
-####  Apos a atualização da 1.3 o jogo fecha se instalar a tradução, estamos tentando resolver. Por enquanto o download da nova versão está liberado somente no discord, pra ficar mais fácil obter feedback. 
+####  Apos a atualização da 1.3 o jogo fecha se instalar a tradução, estamos tentando resolver. Por enquanto o download da nova versão está liberado para baixar, porém não será funcional para a maioria das pessoas. Caso descubram uma forma de fazer funcionar, convido vocês para nosso discord, estamos em constante comunicação por la!
 
 # Links Úteis:
 
