@@ -3,8 +3,6 @@
 
 É **extremamente recomendado** que você entre em nosso **[DISCORD](https://discord.gg/ykKGpqtNab)** e peça suporte para instalar a tradução!
 
-<br>
-
 ## 🔗 Links Úteis:
 ### [Canal do YouTube](https://www.youtube.com/channel/UCg3UqZDuNRPzmTuGHuyBhVA) - [Discord](https://discord.gg/ykKGpqtNab)
 
