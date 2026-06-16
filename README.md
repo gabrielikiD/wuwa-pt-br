@@ -5,10 +5,5 @@
 
 <br>
 
-## 🔗 Links Úteis:
-### [Canal do YouTube](https://www.youtube.com/channel/UCg3UqZDuNRPzmTuGHuyBhVA) - [Discord](https://discord.gg/ykKGpqtNab)
-
-<br>
-
 > [!WARNING]
 > Sobre banimento: use por sua **conta e risco**. porém a probabilidade deve ser baixa.
