@@ -1,9 +1,4 @@
-## ⚠️ LEIA ANTES DE INSTALAR A TRADUÇÃO!
-###  Os tutoriais que ensinam a instalar a tradução estão desatualizados!
+# Obrigado a todos!
+##  A tradução do wuwa está disponível oficialmente apartir da 3.5!
 
-É **extremamente recomendado** que você entre em nosso **[DISCORD](https://discord.gg/ykKGpqtNab)** e peça suporte para instalar a tradução!
-
-<br>
-
-> [!WARNING]
-> Sobre banimento: use por sua **conta e risco**. porém a probabilidade deve ser baixa.
+Lembrando que nosso **[DISCORD](https://discord.gg/ykKGpqtNab)** continua disponível, lá vocês podem chamar pessoas para farmar, tirar dúvidas sobre builds etc...
